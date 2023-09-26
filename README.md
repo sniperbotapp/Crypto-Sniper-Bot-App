@@ -91,3 +91,7 @@ For example, just to mention a few:
 	- Mempool monitoring to frontrun RemoveLiquidity transactions.
 - Simulation mode to test your sources and settings without risking any real funds.
 - Support for Polygon-edge gRPC TxPool (Dogechain)
+
+# 💬 Support Chat
+
+Join the telegram [support chat 💬](https://t.me/pancakeswapprediction) You can access all our announcements here.
