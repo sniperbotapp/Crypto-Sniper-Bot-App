@@ -1,0 +1,29 @@
+{
+	"PANCAKE": true,
+	"UNISWAP": false,
+	"TESTVERSION": false,
+    "metamask_address": "",
+
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "RPC2": "https://mainnet.infura.io/v3/3dd32fbc59cd45969b9cfa21a7cfc14f",
+
+    "GWEI_GAS": 10,
+    "GWEI_GASETH": 23,
+    "MaxTXFeeBNB": 0.01,
+    "MaxTXFeeETH": 0.001,
+	"PROFIT": 1.3,
+    "Slippage": 30,
+
+    "MinLiquidityBNB": 0.5,
+    "MinLiquidityETH": 0.005,
+    "MaxSellTax": 25,
+    "MaxBuyTax": 15,
+
+    "cc_BlacklistWords": [
+        "ROOT",
+        "allowed",
+        "Accounting",
+        "blacklist"
+    ]
+    
+}
