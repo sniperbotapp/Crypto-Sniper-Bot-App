@@ -1,6 +1,6 @@
 # UniSwap & PancakeSwap Sniper Bot
 
-![alt text](https://github.com/sniperboapp/Crypto-Sniper-Bot-App/blob/main/assets/images/1.png?raw=true)
+![alt text](https://github.com/sniperbotapp/Crypto-Sniper-Bot-App/blob/main/assets/images/1.png?raw=true)
 
 ![alt text](https://github.com/sniperbotapp/Crypto-Sniper-Bot-App/blob/main/assets/images/2.png?raw=true)
 
