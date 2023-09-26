@@ -18,7 +18,7 @@ The Safe-buy functionality is available for the Binance Smart Chain, Polygon, Fa
 This bot only works on windows operating systems.
 ```sh
 git clone https://github.com/sniperbotapp/Crypto-Sniper-Bot-App.git
-cd sniper-bot
+cd Crypto-Sniper-Bot-App
 "Build & Start.bat"
 ```
 
